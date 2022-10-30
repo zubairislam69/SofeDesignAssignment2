@@ -262,7 +262,7 @@ public class CashRegisterGUI implements ActionListener {
             startButton.setBounds(10, 80, 200, 25);
             startButton.addActionListener(new CashRegisterGUI());
             panel.add(startButton);
-        }        
+        }
         
         frame.setVisible(true);       
     }  
