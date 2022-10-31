@@ -2,7 +2,7 @@ Sofe Design Assignment 2
 
 Zubair Islam (100778152)
 Hanzalah Patel (100785622)
-Ziyad Khan ()
+Ziyad Khan (100784606)
 
 
 
