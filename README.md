@@ -10,7 +10,7 @@ To Execute: Download Apache Netbeans IDE 15 (https://netbeans.apache.org/downloa
 
 After installing the IDE and development kit, open Netbeans and do the following:
 
-1) Download the CashRegisterGUI.java file
+1) Download the project
 2) Open Netbeans
 3) Go to File at the top left of the window
 4) select open file
