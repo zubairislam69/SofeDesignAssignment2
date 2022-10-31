@@ -7,9 +7,9 @@ After installing the IDE and development kit, open Netbeans and do the following
 3) Go to File at the top left of the window
 4) select open file
 5) go to where you saved CashRegisterGUI.java file and select it
-6) Press the play button to run the code
+6) Press the run button to run the code
 
 For interface instructions, check Interface Instructions file.
 
 VALID BARCODES FOR CASH REGISTER: 123, 456, 789, 012.
-For payment method ensure first letter is capitalized when inputtind Cash, Credit, or Debit
+For payment method ensure first letter is capitalized when inputting Cash, Credit, or Debit
