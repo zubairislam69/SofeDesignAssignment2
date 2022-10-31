@@ -3,3 +3,5 @@ To Execute: Download Apache Netbeans IDE 15 (https://netbeans.apache.org/downloa
 For interface instructions, check Interface Instructions file.
 
 VALID BARCODES FOR CASH REGISTER: 123, 456, 789, 012.
+
+For payment method ensure first letter is capitalized when inputtind Cash, Credit, or Debit
